@@ -1,0 +1,39 @@
+.foto1{background-image:
+    /*two color gradient over an image*/
+  linear-gradient(to top, rgba(13, 21, 59, 0.52), 
+  rgba(16, 32, 51, 0.73)),url('');
+       background-position: center;
+     background-size: cover;
+     height: 100vh;}
+/* 
+     #brcft{
+       }
+       
+       .btcft2{
+     width: auto;
+    } */
+
+    .margin-top{
+        margin-top: 20px;   
+    }
+
+
+ #div_img{ 
+        border-width: 5px;
+        border-style: solid
+    
+        
+        
+    }
+    #div_img{
+        border-color: black;
+       
+        border-radius: 70%;
+        
+        margin-top: -50px;
+        margin-bottom: 40PX;
+        margin-left: 525px;
+        /* height: 300px; */
+        /* padding: 50px; */
+        
+    } 
